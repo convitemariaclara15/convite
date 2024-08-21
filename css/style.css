@@ -31,7 +31,6 @@ h1{
     font-family: "Grey Qo", cursive;
     font-weight: 400;
     color: #957645;
-    font-weight: bold;
     font-size: 150px;
     margin-bottom: -30px;
     margin-top: 30px;
@@ -78,6 +77,17 @@ h6{
     margin-top: 0px;
     text-align: center;
 }
+.data{
+    font-family: "Grey Qo", cursive;
+    font-weight: 400;
+    color: #957645;
+    font-weight: bold;
+    font-size: 150px;
+    margin-bottom: -30px;
+    margin-top: 30px;
+    text-align: center;
+    
+{
 
 .lista{
 
